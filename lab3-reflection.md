@@ -12,4 +12,4 @@ When I explored monitoring tools, I checked the Billing Dashboard and attempted 
 
 Some parts of the lab were straightforward, like launching resources and capturing screenshots. The most confusing part was managing permissions. It was surprisingly easy to either give too much access or lock myself out. That experience showed me how small mistakes in configuration can create serious security gaps.
 
-This lab helped me connect the technical steps to real-world consequences. IAM, S3, EC2, and monitoring are all connected, and security depends on how carefully each piece is configured and reviewed. The biggest takeaway for me is that cloud security is not just about having the right tools — it’s about using them correctly and consistently.
+This lab helped me connect the technical steps to real-world consequences. IAM, S3, EC2, and monitoring are all connected, and security depends on how carefully each piece is configured and reviewed. The biggest takeaway for me is that cloud security is not just about having the right tools it’s about using them correctly and consistently.
